@@ -1,5 +1,1 @@
-pandas    : 1.4.4
-numpy     : 1.21.5
-matplotlib: 3.5.2
-scipy     : 1.9.3
-ipywidgets: 8.1.1
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rm832/XPS-Practical-demo/main)
